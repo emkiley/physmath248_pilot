@@ -8,4 +8,4 @@ __Room:__ MacLaurin Building D016
 
 __Instructors:__ Ryan Budney (Math) and Falk Herwig (Physics & Astronomy) 
 
-__TA:__ Christian Ritter
+__TAs:__ Christian Ritter, Shayla Redlin
