@@ -8,4 +8,4 @@ __Room:__ MacLaurin Building D016
 
 __Instructors:__ Ryan Budney (Math) and Falk Herwig (Physics & Astronomy) 
 
-__TAs:__ Christian Ritter (critter@uvic.ca, github/bitbucket: critter1), Shayla Redlin
+__TAs:__ Christian Ritter (critter[a]uvic.ca, github/bitbucket: critter1), Shayla Redlin
