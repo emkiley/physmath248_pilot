@@ -8,4 +8,10 @@ __Room:__ MacLaurin Building D016
 
 __Instructors:__ Ryan Budney (Math) and Falk Herwig (Physics & Astronomy) 
 
-__TAs:__ Christian Ritter (critter[at]uvic.ca, github/bitbucket: critter1), Shayla Redlin (shaylaredlin at gmail dot com, github/bitbucket: shaylaredlin)
+__TAs:__ Christian Ritter (critter[at]uvic.ca, github/bitbucket: critter1), Shayla Redlin (shaylaredlin at g
+mail dot com, github/bitbucket: shaylaredlin)
+
+__Office hours__:
+* Falk Herwig: Tuesday 1:30pm - 2:30pm
+* Ryan Budney: Tuesday 2:00pm - 3:00pm
+
