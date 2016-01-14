@@ -15,3 +15,7 @@ __Office hours__:
 * Falk Herwig: Tuesday 1:30pm - 2:30pm. Office: Elliott 214
 * Ryan Budney: Tuesday and Wednesday 2:00pm - 3:00pm. Office: SSM A516
 
+__Math & Stats Assistance Centre:__ The assistance centre does not yet officially offer help for this course, but if you need a bit of extra help outside of classes and the tutorials, Shayla works in the assistance centre during the following times:
+ * Monday from 3:30 to 5:30 - Room 129 in the library
+ * Thursday from 5:30 to 7:30 - Room 129 in the library
+
