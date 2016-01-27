@@ -28,3 +28,32 @@ __Math & Stats Assistance Centre:__ The assistance centre does not yet officiall
  * Monday from 3:30 to 5:30 - Room 129 in the library
  * Thursday from 5:30 to 7:30 - Room 129 in the library
 
+__Topics of this course:__
+
+* tools and utilities for this course, such as
+    - the PhysMa Linux virtual machine, installing software packages
+    - Linux command line
+* introduction to python notebooks and the Python programming language, plotting data and functions with python
+* symbolic computing with Sympy
+* numerical analysis
+	- differentiating
+	- integrating
+	- differential equations
+* Newton-Raphson method
+* linear algebra and applications
+* data aquisition, analysis and visualization
+* statistical methods, such as
+	- least-square fitting and higher-order moments
+	- Monte-Carlo methods and related techniques
+* basic time series analysis
+* how can computational math & physics fail
+* emphasis on programming for the purpose of exploring mathematical constructions and data
+* examples and applications from physics
+
+__Grades:__
+
+* 2 individual assignments (15%)
+* 2 group assignments (2-3 students, 10%)
+* midterm exam (25%)
+* final exam (50%)
+  
