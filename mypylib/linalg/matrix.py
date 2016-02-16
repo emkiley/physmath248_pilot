@@ -70,8 +70,10 @@ def gauss_elim(A,u):
         len(u) == number of columns in A
     Returns:
     --------
-        array, float
+    v : array, float
         vector v
+    BB : array of arrays
+       coefficient matrix with RHS in diagonal form
         
     Notes:
     ------
@@ -94,6 +96,7 @@ def gauss_elim(A,u):
             AA[j] -= AA[j,i]*AA[i]
     # this should give us the diagonal form 
     # return AA
+    BB = copy(AA)
     
     # back-substitution
     m  = len(A)-1     # highest row/col index (we do only square matrices)
@@ -102,4 +105,4 @@ def gauss_elim(A,u):
     AA = delete(AA,m+1,1) # recover diagonalized coefficient matrix  
     for j in range(m,-1,-1):
         v[j] = u[j] - dot_prod(v,AA[j])
-    return v
+    return BB,v
